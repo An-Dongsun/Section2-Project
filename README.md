@@ -32,7 +32,7 @@
 * Sex: 성별 ('Female', 'Male')
 * AgeCategory: 연령범주 ('18-24', '25-29', '30-34', '35-39', '40-44', '45-49', '50-54', '55-59', '60-64', '65-69', '70-74', '75-79', '80 or older')
 * Race: 인종 ('White', 'Black', 'Asian', 'American Indian/Alaskan Native', 'Hispanic', 'Other')
-* Diabetic: (당신은) 당뇨병이 있습니까? (Y/N)
+* Diabetic: (당신은) 당뇨병이 있습니까? ('Yes', 'No', 'No, borderline diabetes', 'Yes (during pregnancy)')
 * PhysicalActivity: 지난 30일 동안 정규직 이외의 신체활동이나 운동을 했다. (Y/N)
 * GenHealth: 일반적으로 당신의 건강은 어떤가? ('Excellent', 'Very good', 'Good', 'Fair', 'Poor')
 * SleepTime : 귀하는 24시간 중 평균 몇 시간의 수면을 취하십니까? (1 ~ 24)
