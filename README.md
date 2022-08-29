@@ -1,4 +1,6 @@
 # Section2-Project
+### 발표 영상
+[![Video Label](http://img.youtube.com/vi/90EY9-rjfoc/0.jpg)](https://youtu.be/90EY9-rjfoc)
 
 # 🎯 해결하고자 하는 문제
 ## 🎯 Main : 새로운 환자의 설문조사 결과를 바탕으로 심장병의 유무를 파악한다. 
